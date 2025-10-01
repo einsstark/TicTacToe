@@ -2,7 +2,7 @@
 
 Just a simple terminal-based Tic Tac Toe game.
 
-I made this back in 2023 when I was still figuring out how to code in Python.
+I made this back in 2023 in my uni lesson. 
 
 The idea was to let two players take turns, choose positions on a 3x3 grid, and the game checks who wins. That’s it.
 
